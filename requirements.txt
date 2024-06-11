@@ -1,1 +1,2 @@
-pytest
+selenium == 4.21.0
+assertpy
